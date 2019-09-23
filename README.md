@@ -1,1 +1,1 @@
-# Netflix-Movie-Recommendation-Syatem
+# Netflix-Movie-Recommendation-System
